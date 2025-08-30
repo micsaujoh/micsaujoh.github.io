@@ -1,5 +1,9 @@
 [
   {
+    "latin": "lebron",
+    "english": "goat"
+  },
+  {
     "latin": "abripio, -ere, -ui, -reptum",
     "english": "to"
   },
@@ -25,7 +29,11 @@
   },
   {
     "latin": "accipio, -ere, -cepi, -ceptum",
-    "english": "to receive; to accept accommodo (1), to adjust; to apply to; to fasten"
+    "english": "to receive; to accept"
+  },
+  {
+    "latin": "accommodo (1)",
+    "english": "to adjust; to apply to; to fasten"
   },
   {
     "latin": "acerbus, -a, -um, adj",
@@ -33,11 +41,23 @@
   },
   {
     "latin": "ad, prep. + acc.",
-    "english": "to, toward; at, near adclamo (1), to hail, to shout; to acclaim (+ dat.)"
+    "english": "to, toward; at, near"
+  },
+  {
+    "latin": "adclamo (1)",
+    "english": "to hail, to shout; to acclaim (+ dat.)"
   },
   {
     "latin": "adeo, adv.",
-    "english": "to such an extent adlevo (1), to lift, lift up administro (1), to manage; to assist"
+    "english": "to such an extent"
+  },
+  {
+    "latin": "adlevo (1)",
+    "english": "to lift, lift up"
+  },
+  {
+    "latin": "administro (1)",
+    "english": "to manage; to assist"
   },
   {
     "latin": "admodum, adv., fully",
@@ -49,7 +69,11 @@
   },
   {
     "latin": "urge",
-    "english": "warn adopto (1), to adopt, select; to wish"
+    "english": "warn"
+  },
+  {
+    "latin": "adopto (1)",
+    "english": "to adopt, select; to wish"
   },
   {
     "latin": "adquo, adv.",
@@ -69,11 +93,19 @@
   },
   {
     "latin": "aedes, -is, f",
-    "english": ", dwelling place, house; temple, sanctuary, shrine aedifico (1), to erect (a building),"
+    "english": ", dwelling place, house; temple, sanctuary, shrine"
+  },
+  {
+    "latin": "aedifico (1)",
+    "english": "to erect (a building),"
   },
   {
     "latin": "build",
-    "english": "construct aegroto (1), to be sick; to be distressed; to grieve"
+    "english": "construct"
+  },
+  {
+    "latin": "aegroto (1)",
+    "english": "to be sick; to be distressed; to grieve"
   },
   {
     "latin": "aequalis, -e, adj.",
@@ -81,7 +113,11 @@
   },
   {
     "latin": "aeque, adv., equally",
-    "english": "likewise aequo (1), to make level, make equal"
+    "english": "likewise"
+  },
+  {
+    "latin": "aequo (1)",
+    "english": "to make level, make equal"
   },
   {
     "latin": "aequor, -oris, n.",
@@ -185,7 +221,11 @@
   },
   {
     "latin": "amphitheatrum, -tri",
-    "english": "n., amphitheater amplio (1), to enlarge; to postpone"
+    "english": "n., amphitheater"
+  },
+  {
+    "latin": "amplio (1)",
+    "english": "to enlarge; to postpone"
   },
   {
     "latin": "amplus, -a, -um",
@@ -229,7 +269,11 @@
   },
   {
     "latin": "music, archery",
-    "english": "and medicine appello (1), to name; to speak to,"
+    "english": "and medicine"
+  },
+  {
+    "latin": "appello (1)",
+    "english": "to name; to speak to,"
   },
   {
     "latin": "address",
@@ -697,7 +741,11 @@
   },
   {
     "latin": "complain",
-    "english": "to complain of consacro (1), to consecrate, to dedicate; to vow to a god"
+    "english": "to complain of"
+  },
+  {
+    "latin": "consacro (1)",
+    "english": "to consecrate, to dedicate; to vow to a god"
   },
   {
     "latin": "consisto, -ere, -stiti",
@@ -825,7 +873,11 @@
   },
   {
     "latin": "culpa, -ae, f, fault, error",
-    "english": "blame, guilt culpo (1), to blame, to accuse 'Scanned with : kJ CamScanner': 142"
+    "english": "blame, guilt"
+  },
+  {
+    "latin": "culpo (1)",
+    "english": "to blame, to accuse 'Scanned with : kJ CamScanner': 142"
   },
   {
     "latin": "cultus, -us, m.",
@@ -857,7 +909,11 @@
   },
   {
     "latin": "Curia, -ae, f",
-    "english": "the Curia (senate house) curo (1), to watch over, care for, look after"
+    "english": "the Curia (senate house)"
+  },
+  {
+    "latin": "curo (1)",
+    "english": "to watch over, care for, look after"
   },
   {
     "latin": "custodia, -ae, f.",
@@ -873,7 +929,11 @@
   },
   {
     "latin": "Dacia, -ae, f.",
-    "english": "province on the lower Danube damno (1), to cause harm to; to"
+    "english": "province on the lower Danube"
+  },
+  {
+    "latin": "damno (1)",
+    "english": "to cause harm to; to"
   },
   {
     "latin": "condemn",
@@ -901,7 +961,11 @@
   },
   {
     "latin": "obligation",
-    "english": "be obliged debilito (1), to incapacitate, weaken"
+    "english": "be obliged"
+  },
+  {
+    "latin": "debilito (1)",
+    "english": "to incapacitate, weaken"
   },
   {
     "latin": "December, -bris, adj.",
@@ -929,7 +993,11 @@
   },
   {
     "latin": "decipio, -ere, -cepi, -ceptum",
-    "english": "to catch; to cheat, deceive dedico (1), dedicate"
+    "english": "to catch; to cheat, deceive"
+  },
+  {
+    "latin": "dedico (1)",
+    "english": "dedicate"
   },
   {
     "latin": "defendo, -ere, -i, -fensum",
@@ -961,7 +1029,11 @@
   },
   {
     "latin": "destroy",
-    "english": "ruin; to overthrow denso (1), to thicken; to crowd"
+    "english": "ruin; to overthrow"
+  },
+  {
+    "latin": "denso (1)",
+    "english": "to thicken; to crowd"
   },
   {
     "latin": "together",
@@ -969,7 +1041,11 @@
   },
   {
     "latin": "descendo, -ere, -ndi, -nsum",
-    "english": "to go or come down, get down (from) desidero (1), to desire, to want; to miss; to lose; to investigate"
+    "english": "to go or come down, get down (from)"
+  },
+  {
+    "latin": "desidero (1)",
+    "english": "to desire, to want; to miss; to lose; to investigate"
   },
   {
     "latin": "deus",
@@ -1013,7 +1089,11 @@
   },
   {
     "latin": "diripio, -ere, -ui, -reptum",
-    "english": "to pull; to grab; to plunder dito (1), to enrich"
+    "english": "to pull; to grab; to plunder"
+  },
+  {
+    "latin": "dito (1)",
+    "english": "to enrich"
   },
   {
     "latin": "diuturnus, -a, -um, adj",
@@ -1073,7 +1153,11 @@
   },
   {
     "latin": "duobus, duabus",
-    "english": "duobus), pi. adj., two duplico (1), to double; to enlarge"
+    "english": "duobus), pi. adj., two"
+  },
+  {
+    "latin": "duplico (1)",
+    "english": "to double; to enlarge"
   },
   {
     "latin": "Dyrrhachium, -i, n.",
@@ -1105,7 +1189,11 @@
   },
   {
     "latin": "forth",
-    "english": "send forth; to sponsor effero (1), to erupt"
+    "english": "send forth; to sponsor"
+  },
+  {
+    "latin": "effero (1)",
+    "english": "to erupt"
   },
   {
     "latin": "efficax, -acis, adj.",
@@ -1189,7 +1277,11 @@
   },
   {
     "latin": "exore, prep. + abl.",
-    "english": "from, out of exaestuo (1), to boil; to rage, blaze up"
+    "english": "from, out of"
+  },
+  {
+    "latin": "exaestuo (1)",
+    "english": "to boil; to rage, blaze up"
   },
   {
     "latin": "excipio, -ere, -cepi, -ceptum",
@@ -1201,7 +1293,11 @@
   },
   {
     "latin": "excludo, -ere, -clusi, -clusum",
-    "english": "to shut out, exclude, keep away excrucio (1), to torture, torment"
+    "english": "to shut out, exclude, keep away"
+  },
+  {
+    "latin": "excrucio (1)",
+    "english": "to torture, torment"
   },
   {
     "latin": "exedo, ere, exedi, exesum",
@@ -1229,7 +1325,11 @@
   },
   {
     "latin": "exitiabilis, -is, adj.",
-    "english": "destructive, deadly exspecto (1), to await, expect, look for extinguo or exstinguo, -ere, -stinxi, -stinctum, to"
+    "english": "destructive, deadly"
+  },
+  {
+    "latin": "exspecto (1)",
+    "english": "to await, expect, look for extinguo or exstinguo, -ere, -stinxi, -stinctum, to"
   },
   {
     "latin": "extinguish, destroy",
@@ -1401,7 +1501,11 @@
   },
   {
     "latin": "source",
-    "english": "origin foro (1), to bore, pierce, perforate"
+    "english": "origin"
+  },
+  {
+    "latin": "foro (1)",
+    "english": "to bore, pierce, perforate"
   },
   {
     "latin": "forte, adj.",
@@ -1437,7 +1541,11 @@
   },
   {
     "latin": "frater, -tris, m.",
-    "english": "brother frequento (1), to visit"
+    "english": "brother"
+  },
+  {
+    "latin": "frequento (1)",
+    "english": "to visit"
   },
   {
     "latin": "fretum, -i, n.",
@@ -1605,7 +1713,11 @@
   },
   {
     "latin": "ignis, -is, m.",
-    "english": "fire ignoro (1), to not know; to disregard; to ignore, be unaware"
+    "english": "fire"
+  },
+  {
+    "latin": "ignoro (1)",
+    "english": "to not know; to disregard; to ignore, be unaware"
   },
   {
     "latin": "ille, illa, illud",
@@ -1629,7 +1741,11 @@
   },
   {
     "latin": "dominion, rule",
-    "english": "reign impero (1), to demand; to levy; to give orders to, command"
+    "english": "reign"
+  },
+  {
+    "latin": "impero (1)",
+    "english": "to demand; to levy; to give orders to, command"
   },
   {
     "latin": "impune, adv",
@@ -1645,7 +1761,11 @@
   },
   {
     "latin": "incido, -ere, -cidisti",
-    "english": "to fall; to attack; to happen, occur incoho (1), to begin; to establish"
+    "english": "to fall; to attack; to happen, occur"
+  },
+  {
+    "latin": "incoho (1)",
+    "english": "to begin; to establish"
   },
   {
     "latin": "incola, -ae",
@@ -1653,7 +1773,11 @@
   },
   {
     "latin": "incredibilis, is, adj.",
-    "english": "incredible, unbelievable indico (1), to point out; to accuse"
+    "english": "incredible, unbelievable"
+  },
+  {
+    "latin": "indico (1)",
+    "english": "to point out; to accuse"
   },
   {
     "latin": "indignus, -a, -um",
@@ -1749,7 +1873,11 @@
   },
   {
     "latin": "interfector, -is, m., killer",
-    "english": "assassin interpello (1), to interrupt; to"
+    "english": "assassin"
+  },
+  {
+    "latin": "interpello (1)",
+    "english": "to interrupt; to"
   },
   {
     "latin": "impede",
@@ -1769,7 +1897,11 @@
   },
   {
     "latin": "unusual",
-    "english": "extraordinary invetero (1), to make old, to grow old; to become rooted 'Scanned with : KJ CamScanner': 147 5 Ee aT RP"
+    "english": "extraordinary"
+  },
+  {
+    "latin": "invetero (1)",
+    "english": "to make old, to grow old; to become rooted 'Scanned with : KJ CamScanner': 147 5 Ee aT RP"
   },
   {
     "latin": "invidus, -a, -um, adj",
@@ -1889,7 +2021,11 @@
   },
   {
     "latin": "labor, -i",
-    "english": "lapsus sum, to slip, to slide; to perish, collapse laboro (1), to toil, exert oneself, take pains; to be distressed, to worry; to work at"
+    "english": "lapsus sum, to slip, to slide; to perish, collapse"
+  },
+  {
+    "latin": "laboro (1)",
+    "english": "to toil, exert oneself, take pains; to be distressed, to worry; to work at"
   },
   {
     "latin": "lacrima, -ae, f",
@@ -1941,7 +2077,11 @@
   },
   {
     "latin": "late, adv., widely",
-    "english": "far and wide laudo (1), to praise, extol"
+    "english": "far and wide"
+  },
+  {
+    "latin": "laudo (1)",
+    "english": "to praise, extol"
   },
   {
     "latin": "legatio, -ionis, f",
@@ -1981,7 +2121,11 @@
   },
   {
     "latin": "livor, -oris, m., envy",
-    "english": "spite; bluish color of bruising locupleto (1), to enrich"
+    "english": "spite; bluish color of bruising"
+  },
+  {
+    "latin": "locupleto (1)",
+    "english": "to enrich"
   },
   {
     "latin": "locus, -i",
@@ -2057,7 +2201,11 @@
   },
   {
     "latin": "maiores, -um",
-    "english": "ancestors, forebears mando (1), to hand over, commit, entrust; order, command, direct"
+    "english": "ancestors, forebears"
+  },
+  {
+    "latin": "mando (1)",
+    "english": "to hand over, commit, entrust; order, command, direct"
   },
   {
     "latin": "maneo, -ere, mansi",
@@ -2133,7 +2281,11 @@
   },
   {
     "latin": "melior, melius",
-    "english": "compar. adj, better memoro (1), to speak about,"
+    "english": "compar. adj, better"
+  },
+  {
+    "latin": "memoro (1)",
+    "english": "to speak about,"
   },
   {
     "latin": "mention",
@@ -2333,7 +2485,11 @@
   },
   {
     "latin": "nascor, -i",
-    "english": "natus sum, to be born, to grow navigo (1), to sail, to navigate"
+    "english": "natus sum, to be born, to grow"
+  },
+  {
+    "latin": "navigo (1)",
+    "english": "to sail, to navigate"
   },
   {
     "latin": "ne",
@@ -2365,7 +2521,11 @@
   },
   {
     "latin": "dark",
-    "english": "gloomy nigro (1), to be black; to make black"
+    "english": "gloomy"
+  },
+  {
+    "latin": "nigro (1)",
+    "english": "to be black; to make black"
   },
   {
     "latin": "nihil",
@@ -2429,7 +2589,11 @@
   },
   {
     "latin": "notesco, -ere, notui",
-    "english": "to become known; to become famous noto (1), to mark, brand,"
+    "english": "to become known; to become famous"
+  },
+  {
+    "latin": "noto (1)",
+    "english": "to mark, brand,"
   },
   {
     "latin": "distinguish",
@@ -2469,7 +2633,11 @@
   },
   {
     "latin": "obeo, -ire",
-    "english": "obivi/-ii, obitum, to go to meet; to meet one's death, die observo (1), to watch; observe, pay attention to"
+    "english": "obivi/-ii, obitum, to go to meet; to meet one's death, die"
+  },
+  {
+    "latin": "observo (1)",
+    "english": "to watch; observe, pay attention to"
   },
   {
     "latin": "obtineo, -ere, -tinui, -tentum",
@@ -2541,7 +2709,11 @@
   },
   {
     "latin": "optimus, -a, -um",
-    "english": "superl. adj., best opto (1), to wish for, desire, choose"
+    "english": "superl. adj., best"
+  },
+  {
+    "latin": "opto (1)",
+    "english": "to wish for, desire, choose"
   },
   {
     "latin": "opus, operis, n., work",
@@ -2597,7 +2769,11 @@
   },
   {
     "latin": "parens, -ntis",
-    "english": "m./f, parent Paro (1), to furnish, supply, produce; prepare"
+    "english": "m./f, parent"
+  },
+  {
+    "latin": "Paro (1)",
+    "english": "to furnish, supply, produce; prepare"
   },
   {
     "latin": "Pars, partis, f",
@@ -2849,7 +3025,11 @@
   },
   {
     "latin": "praecipio, -ere, -i, -ceptum",
-    "english": "to anticipate; to warn; to order; to recommend; to teach praedico (1), to proclaim, declare; to praise, commend praefectus -us, m., prefect"
+    "english": "to anticipate; to warn; to order; to recommend; to teach"
+  },
+  {
+    "latin": "praedico (1)",
+    "english": "to proclaim, declare; to praise, commend praefectus -us, m., prefect"
   },
   {
     "latin": "praefero, -ferre, -tuli, -latum",
@@ -2925,7 +3105,11 @@
   },
   {
     "latin": "procul, adv",
-    "english": ", far, far away, at a distance profligo (1), to overthrow; to perform the greater part of (nearly complete)"
+    "english": ", far, far away, at a distance"
+  },
+  {
+    "latin": "profligo (1)",
+    "english": "to overthrow; to perform the greater part of (nearly complete)"
   },
   {
     "latin": "profluvium, -i, n.",
@@ -2937,7 +3121,11 @@
   },
   {
     "latin": "almost",
-    "english": "nearly; near, by propero (1), hurry, hasten"
+    "english": "nearly; near, by"
+  },
+  {
+    "latin": "propero (1), hurry",
+    "english": "hasten"
   },
   {
     "latin": "Ppropitius, -a, -um, adj",
@@ -2985,7 +3173,11 @@
   },
   {
     "latin": "publice, adv., publicly",
-    "english": "at public expense publico (1), confiscate, appropriate for the state"
+    "english": "at public expense"
+  },
+  {
+    "latin": "publico (1)",
+    "english": "confiscate, appropriate for the state"
   },
   {
     "latin": "publicus, -a, -um, adj",
@@ -3153,7 +3345,11 @@
   },
   {
     "latin": "quotienscumque, adv.",
-    "english": "whenever, as often as, however often R rapso (1), to snatch away; to hurry away"
+    "english": "whenever, as often as, however often R"
+  },
+  {
+    "latin": "rapso (1)",
+    "english": "to snatch away; to hurry away"
   },
   {
     "latin": "rarus, -a, -um, adj",
@@ -3245,7 +3441,11 @@
   },
   {
     "latin": "remitto, -ere, -misi",
-    "english": "-missum, to send back; to grant, release, relax; to give up, yield; to forgive reparo (1), to restore, recover"
+    "english": "-missum, to send back; to grant, release, relax; to give up, yield; to forgive"
+  },
+  {
+    "latin": "reparo (1)",
+    "english": "to restore, recover"
   },
   {
     "latin": "reperio, -ere, -i, -pertum",
@@ -3261,7 +3461,11 @@
   },
   {
     "latin": "repleo, -ere, -plevi, -pletum",
-    "english": "to refill; to replace; to cover reputo (1), to think over"
+    "english": "to refill; to replace; to cover"
+  },
+  {
+    "latin": "reputo (1)",
+    "english": "to think over"
   },
   {
     "latin": "res, rei, f, property, thing",
@@ -3269,11 +3473,19 @@
   },
   {
     "latin": "matter",
-    "english": "deed; pl., exploits res publica, rei publicae, f, republic reservo (1), to reserve; to spare, hold back"
+    "english": "deed; pl., exploits res publica, rei publicae, f, republic"
+  },
+  {
+    "latin": "reservo (1)",
+    "english": "to reserve; to spare, hold back"
   },
   {
     "latin": "resisto, -ere, -stiti",
-    "english": "to pause, to resist; to make a stand resono (1), to resound"
+    "english": "to pause, to resist; to make a stand"
+  },
+  {
+    "latin": "resono (1)",
+    "english": "to resound"
   },
   {
     "latin": "respondeo, -ere, -ndi, -nsum",
@@ -3349,7 +3561,11 @@
   },
   {
     "latin": "being",
-    "english": "safety; salutem dicere, to greet saluto (1), to greet; to visit; to salute"
+    "english": "safety; salutem dicere, to greet"
+  },
+  {
+    "latin": "saluto (1)",
+    "english": "to greet; to visit; to salute"
   },
   {
     "latin": "Saturnus, i, m., Saturn",
@@ -3633,7 +3849,11 @@
   },
   {
     "latin": "topmost",
-    "english": "uppermost supero (1), to overcome, to defeat, to surpass"
+    "english": "uppermost"
+  },
+  {
+    "latin": "supero (1)",
+    "english": "to overcome, to defeat, to surpass"
   },
   {
     "latin": "superstitio, -onis, f",
@@ -3777,7 +3997,11 @@
   },
   {
     "latin": "Tonans, Tonantis, m.",
-    "english": "thunderer tono (1), to thunder"
+    "english": "thunderer"
+  },
+  {
+    "latin": "tono (1)",
+    "english": "to thunder"
   },
   {
     "latin": "totus, -a, -um, adj., whole",
@@ -3893,7 +4117,11 @@
   },
   {
     "latin": "tunc, adv., then",
-    "english": "at that time turbo (1), to disturb, agitate; to throw into confusion"
+    "english": "at that time"
+  },
+  {
+    "latin": "turbo (1)",
+    "english": "to disturb, agitate; to throw into confusion"
   },
   {
     "latin": "turbo, -inis, m.",
@@ -4105,7 +4333,11 @@
   },
   {
     "latin": "however",
-    "english": "yet verso (1), to keep turning around; to turn over, stir; to turn (the eyes or the mind) this way and that; to turn over in the mind; pass., to be involved, be active, be busy; to live (in a place); to come and go"
+    "english": "yet"
+  },
+  {
+    "latin": "verso (1)",
+    "english": "to keep turning around; to turn over, stir; to turn (the eyes or the mind) this way and that; to turn over in the mind; pass., to be involved, be active, be busy; to live (in a place); to come and go"
   },
   {
     "latin": "vertex, verticis, m.",
@@ -4145,7 +4377,11 @@
   },
   {
     "latin": "via, -ae, f, way, path, road",
-    "english": "street, passageway vibro (1), to brandish, wave; to shoot out"
+    "english": "street, passageway"
+  },
+  {
+    "latin": "vibro (1)",
+    "english": "to brandish, wave; to shoot out"
   },
   {
     "latin": "vicinus, -a, -um, adj.",
@@ -4177,7 +4413,11 @@
   },
   {
     "latin": "conquer",
-    "english": "prevail; to overcome, defeat vindico (1), to claim, assert; to rescue; to pay,"
+    "english": "prevail; to overcome, defeat"
+  },
+  {
+    "latin": "vindico (1)",
+    "english": "to claim, assert; to rescue; to pay,"
   },
   {
     "latin": "vir, viri, m.",
@@ -4201,7 +4441,11 @@
   },
   {
     "latin": "vita, -ae, f, life",
-    "english": "manner of life vito (1), to avoid, to shun"
+    "english": "manner of life"
+  },
+  {
+    "latin": "vito (1)",
+    "english": "to avoid, to shun"
   },
   {
     "latin": "Vivo, -ere, Vixi, victum",
@@ -4213,7 +4457,11 @@
   },
   {
     "latin": "vivus, -a, -um, adj.",
-    "english": "living voco (1), to call, invoke; to summon volnus. See vulnus"
+    "english": "living"
+  },
+  {
+    "latin": "voco (1)",
+    "english": "to call, invoke; to summon volnus. See vulnus"
   },
   {
     "latin": "volo, velle, volui",
