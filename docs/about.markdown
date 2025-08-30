@@ -3,16 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
+<img src="/images/finalRebar.jpg" alt="Into the Deep Robot" 
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Hello! My name is Michael, and I am a high schooler who is very passionate about robotics and machining. I have been doing FTC/FRC for 4 years and am currently on FTC team 6417. I was also previously team captain of FTC 23741 and design member for FRC 2199.
